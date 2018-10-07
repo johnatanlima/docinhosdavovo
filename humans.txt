@@ -1,0 +1,18 @@
+/* www.docinhosdavovo.com.br | Referencia - Portal de Cursos H.Vasconcelos  */
+
+/* TEAM */
+	Creator: Attilio Pira - https://github.com/attilioescola
+	Johnatan Lima - https://github.com/johnatanlima
+	Wesley Trindade: 
+	docinhosdavovo [at] gmail.com
+	Twitter: @docinhosdavovo
+	From: Brasil city, Piracicaba - SP
+	
+/* IN MEMORIAL */
+	Alunos 
+
+/* THANKS */
+	Last update: 25/05/2018	Language: Portugu�s
+	Standars: HTML5, CSS3, JavaScript
+	Components: jQuery
+	Software: SublimeText
